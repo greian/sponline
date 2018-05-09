@@ -5,7 +5,8 @@
   "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
-    "test": "mocha --reporter spec"
+    "test": "mocha --reporter spec",
+    "version": "auto-changelog -p && git add CHANGELOG.md"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,7 @@
     "@pnp/spfx-controls-react": "1.2.4",
     "@types/react": "15.6.6",
     "@types/react-dom": "15.5.6",
+    "auto-changelog": "^1.4.6",
     "chai": "^4.1.2",
     "mocha": "^5.1.1",
     "react": "15.6.2",

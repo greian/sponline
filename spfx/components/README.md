@@ -1,5 +1,3 @@
-![greian SharePoint Components](https://devofficecdn.azureedge.net/media/Default/PnP/sppnp.png)
-
 # SPFx components
 
 This is an open source library for reusable SPFx (SharePoint Framework) components

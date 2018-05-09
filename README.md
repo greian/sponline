@@ -1,2 +1,2 @@
 # sponline
-A repository for SharePoint Online helpers and examples
+A repository for SharePoint Online components, helpers and examples

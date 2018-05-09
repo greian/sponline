@@ -7,22 +7,20 @@
     "declaration": true,
     "sourceMap": true,
     "experimentalDecorators": true,
-    "importHelpers": true,
     "noImplicitAny": false,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
-    "moduleResolution": "node",
-    "preserveConstEnums": false,
     "lib": [
       "es2017",
       "dom"
     ],
     "types": [
-      // "webpack-env"
+      "webpack-env"
     ]
   },
   "include": [
-    "src"
+    "./src/**/*.tsx",
+    "./src/**/*.ts"
   ],
   "exclude": [
     "node_modules"

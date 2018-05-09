@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "greian-spfx-components-client-side-solution",
+    "id": "30a541e0-be2e-438a-ad95-07f52c793653",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/greian-spfx-components.sppkg"
+  }
+}

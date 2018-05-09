@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "greian-spfx-components",
+    "libraryId": "30a541e0-be2e-438a-ad95-07f52c793653",
+    "environment": "spo"
+  }
+}

@@ -10,7 +10,7 @@ export class WebPartConfig extends React.Component<IWebPartConfigProps, {}> {
       <Fabric>
         { this.props.displayMode === DisplayMode.Edit &&
           <Placeholder
-            iconName='Edit'
+            iconName='Edit (TH)'
             iconText='Configure'
             description='Configure your web part'
             buttonLabel='Configure'
@@ -18,7 +18,7 @@ export class WebPartConfig extends React.Component<IWebPartConfigProps, {}> {
         }
         { this.props.displayMode === DisplayMode.Read &&
           <Placeholder
-            iconName='Edit'
+            iconName='Edit (TH)'
             iconText='Configure'
             description='Configure your web part' />
         }

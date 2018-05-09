@@ -3,10 +3,6 @@
     "target": "es5",
     "module": "commonjs",
     "outDir": "./lib",
-    "lib": [
-      "es2017",
-      "dom"
-    ],
     "jsx": "react",
     "declaration": true,
     "sourceMap": true,
@@ -17,6 +13,10 @@
     "forceConsistentCasingInFileNames": true,
     "moduleResolution": "node",
     "preserveConstEnums": false,
+    "lib": [
+      "es2017",
+      "dom"
+    ],
     "types": [
       // "webpack-env"
     ]

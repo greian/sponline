@@ -1,0 +1,26 @@
+{
+  "name": "greian.spfx.helpers",
+  "version": "1.0.0",
+  "description": "A set of helpers for SharePoint Framework - SPFx - projects",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greian/sponline.git"
+  },
+  "keywords": [
+    "SharePoint",
+    "SPFx"
+  ],
+  "author": "Glenn Reian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greian/sponline/issues"
+  },
+  "homepage": "https://github.com/greian/sponline#readme",
+  "devDependencies": {
+    "typescript": "^2.8.3"
+  }
+}
